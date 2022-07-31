@@ -1,6 +1,8 @@
 package com.problems;
 
 /*
+All the above 3 interfaces has implementation of default m1() method
+
 Class D implements interface B & C, now D is unable to determine which version of method1() to use.
 Whether to use Interface B's default method1() or C's default method method1()
 In this case, D class should override m1() to avoid error.
