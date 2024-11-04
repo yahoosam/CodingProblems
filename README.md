@@ -1,2 +1,2 @@
-# Java-Problems
-Common Java Problems
+# Coding Problems
+Common Coding Problems
